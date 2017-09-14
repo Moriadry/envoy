@@ -221,6 +221,7 @@ generate_request_id
   access_log
   tracing
   headers
+  header_sanitizing
   stats
   runtime
   rds
